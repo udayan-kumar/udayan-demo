@@ -1,4 +1,4 @@
 # udayan-demo
 my first github repository
 <br/>
-author = udayan kumar
+author = udayan singh
